@@ -1,0 +1,7 @@
+Can be found in lunarv2 download
+
+cuba 11.8
+- nvinfer_plugin.dll
+- nvinfer.dll
+- nvonnxparser.dll
+- nvparsers.dll
