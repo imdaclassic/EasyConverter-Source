@@ -1,6 +1,6 @@
-Can be found in lunarv2 download
+downloads for dlls in discord of lunar v2
 
-cuba 11.8
+tensorrt for cuba 11.8
 - nvinfer_plugin.dll
 - nvinfer.dll
 - nvonnxparser.dll
