@@ -1,0 +1,7 @@
+downloads for dlls in discord of lunar v2
+
+tensorrt for cuba 12.x
+- nvinfer_10.dll
+- nvinfer_dispatch_10.dll
+- nvinfer_plugin_10.dll
+- nvonnxparser_10.dll
