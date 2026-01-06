@@ -1,0 +1,23 @@
+**HOW TO USE**
+
+1. Open Start.bat
+2. Select your gpu
+3. Select a .pt or .onnx file
+4. Select which type you want to convert to
+5. Select FP32 or FP16
+6. Wait for it to convert
+7. When done model will be saved to original location
+
+* Done! :) *
+
+
+-- IF YOU SEE THIS AND YOUR CONFUSED, YOU DONT NEED TO DOWNLOAD ANYTHING! THIS IS JUST FOR PARANOID PEOPLE --
+
+Dlls are for portable conversion, I get them from TensorRT downloads on official Nvidia site
+
+11.X Cuba TensorRT downloads: https://developer.nvidia.com/nvidia-tensorrt-8x-download
+12.X Cuba TensorRT downloads: https://developer.nvidia.com/tensorrt/download/10x
+
+this is only for nvidia :) if you have amd gpu you might as well delete those dlls idc
+
+Site packages are got from venv's and i just copy and paste them
